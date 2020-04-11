@@ -450,7 +450,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-25\">Mobile </a><a href=\"index.html#content5-25\">Development</a></p>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href=\"index.html#content5-25\">Mobile </a><a href=\"index.html#content5-25\">Development</a></b></p>",
           "caption": "<p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p><p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -466,7 +466,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-title P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "30px"
             }
           }
         },
@@ -489,7 +490,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.7
           },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-26\">Software Testing</a></p>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-26\"><b>Software Testing</b></a></p>",
           "caption": "<p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p><p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,</p>",
           "alias": "purity/components",
           "_tags": [
@@ -502,7 +503,8 @@
               "font-size": "46px"
             },
             ".mbr-section-title P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "30px"
             }
           }
         },
@@ -525,7 +527,7 @@
             "overlayColor": "#8f99af",
             "overlayOpacity": 0.7
           },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-27\">Web Development</a></p>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-27\"><b>Web Development</b></a></p>",
           "caption": "<p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p><p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -538,7 +540,8 @@
               "font-size": "46px"
             },
             ".mbr-section-title P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "30px"
             }
           }
         },
@@ -591,7 +594,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-28\">UX Design</a></p>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"index.html#content5-28\"><b>UX Design</b></a></p>",
           "caption": "<p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p><p>qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,</p>",
           "alias": "purity/components",
           "_tags": [
@@ -604,7 +607,8 @@
               "font-size": "46px"
             },
             ".mbr-section-title P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "30px"
             }
           }
         }
